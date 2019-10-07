@@ -19,11 +19,9 @@ li {
 
 a {
   color: black;
-  font-weight: : bold;
+  font-weight: bold;
   text-decoration: none;
 }
-
-/** global classes styling **/
 
 .container {
   max-width: 1000px;
